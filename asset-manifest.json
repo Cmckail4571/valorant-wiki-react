@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/valorant-wiki-react/static/css/main.ad780322.css",
-    "main.js": "/valorant-wiki-react/static/js/main.c26cf103.js",
+    "main.js": "/valorant-wiki-react/static/js/main.a2f961fc.js",
+    "static/media/ValorantWallpaper_SplitMap.jpg": "/valorant-wiki-react/static/media/ValorantWallpaper_SplitMap.b24f26c6fcd60867c182.jpg",
+    "static/media/VALORANT_Sova_Dark.jpg": "/valorant-wiki-react/static/media/VALORANT_Sova_Dark.fc69b6d7a62b1d20f7ef.jpg",
+    "static/media/VALORANT_Viper_Dark.jpg": "/valorant-wiki-react/static/media/VALORANT_Viper_Dark.71be3e5f018a6306ebb2.jpg",
+    "static/media/VALORANT_Jett_Dark.jpg": "/valorant-wiki-react/static/media/VALORANT_Jett_Dark.26f7f109621735332628.jpg",
+    "static/media/ValorantWallpaper_Prime.jpg": "/valorant-wiki-react/static/media/ValorantWallpaper_Prime.81aecd6ab6d585063c00.jpg",
+    "static/media/VALORANT_phx_jett_brand.jpg": "/valorant-wiki-react/static/media/VALORANT_phx_jett_brand.8c80b74a38fbed2cf960.jpg",
+    "static/media/VALORANT_V_Red.jpg": "/valorant-wiki-react/static/media/VALORANT_V_Red.8d36206f4ced9d6934be.jpg",
     "static/media/VALORANT_Logo_V_galleryimage.jpg": "/valorant-wiki-react/static/media/VALORANT_Logo_V_galleryimage.7c281f12498696f29562.jpg",
-    "static/media/logo.svg": "/valorant-wiki-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/V_Logomark_Red.png": "/valorant-wiki-react/static/media/V_Logomark_Red.a4a9aab0c8bd40840d52.png",
     "index.html": "/valorant-wiki-react/index.html",
     "main.ad780322.css.map": "/valorant-wiki-react/static/css/main.ad780322.css.map",
-    "main.c26cf103.js.map": "/valorant-wiki-react/static/js/main.c26cf103.js.map"
+    "main.a2f961fc.js.map": "/valorant-wiki-react/static/js/main.a2f961fc.js.map"
   },
   "entrypoints": [
     "static/css/main.ad780322.css",
-    "static/js/main.c26cf103.js"
+    "static/js/main.a2f961fc.js"
   ]
 }
