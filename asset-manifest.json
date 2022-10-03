@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cd1914c.css",
-    "main.js": "/static/js/main.59d6c972.js",
-    "static/media/VALORANT_Logo_V_galleryimage.jpg": "/static/media/VALORANT_Logo_V_galleryimage.7c281f12498696f29562.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.0cd1914c.css.map": "/static/css/main.0cd1914c.css.map",
-    "main.59d6c972.js.map": "/static/js/main.59d6c972.js.map"
+    "main.css": "/valorant-wiki-react/static/css/main.ad780322.css",
+    "main.js": "/valorant-wiki-react/static/js/main.c26cf103.js",
+    "static/media/VALORANT_Logo_V_galleryimage.jpg": "/valorant-wiki-react/static/media/VALORANT_Logo_V_galleryimage.7c281f12498696f29562.jpg",
+    "static/media/logo.svg": "/valorant-wiki-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/valorant-wiki-react/index.html",
+    "main.ad780322.css.map": "/valorant-wiki-react/static/css/main.ad780322.css.map",
+    "main.c26cf103.js.map": "/valorant-wiki-react/static/js/main.c26cf103.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cd1914c.css",
-    "static/js/main.59d6c972.js"
+    "static/css/main.ad780322.css",
+    "static/js/main.c26cf103.js"
   ]
 }
